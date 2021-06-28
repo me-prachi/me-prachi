@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a beginner java developer.
 
 <!--
 **me-prachi/me-prachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
